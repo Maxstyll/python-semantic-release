@@ -3,7 +3,6 @@ import sys
 
 from setuptools import find_packages, setup
 
-
 def _read_long_description():
     try:
         with open("readme.rst") as fd:
